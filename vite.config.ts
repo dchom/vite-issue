@@ -40,7 +40,6 @@ export default defineConfig({
   //   ]
   // },
   plugins: [
-    // 预打包
     PkgConfig(),
     OptimizationPersist(),
     vue(),
